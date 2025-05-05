@@ -12,7 +12,7 @@ O projeto é um jogo criado para aprimorar habilidades de digitação de forma d
 
 ## Tecnologias Envolvidas
 
- - [![Random Words](https://img.shields.io/badge/Random%20Words%20-%20API%20%20-%20purple)]  
+ - [![Random Words](https://img.shields.io/badge/Random%20Words%20-%20API%20%20-%20purple)
 
 - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-orange)](https://spring.io/projects/spring-boot)
 
