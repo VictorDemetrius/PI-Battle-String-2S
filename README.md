@@ -16,7 +16,7 @@ O projeto é um jogo criado para aprimorar habilidades de digitação de forma d
 
 - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-orange)](https://spring.io/projects/spring-boot)
 
-- [![ORM](https://img.shields.io/badge/ORM%20-%20API-Blue)
+- [![ORM](https://img.shields.io/badge/ORM%20-%20JAVA-%20blue)
 
 - [![React](https://img.shields.io/badge/React-Frontend-blue)](https://reactjs.org/)
 
